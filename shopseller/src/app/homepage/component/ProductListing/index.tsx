@@ -41,7 +41,7 @@ function OurProducts() {
       price: 500,
       rating: 4,
       reviews: 145,
-      image: "/images/curology-j7pKVQrTUsM-unsplash 1.png",
+      image: "/images/product.png",
       isNew: false,
       colors: null
     },
