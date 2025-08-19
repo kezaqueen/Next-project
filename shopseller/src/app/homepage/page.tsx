@@ -12,10 +12,10 @@ import { Footer } from '../SharedComponents/Footer';
 
 const HomepageComponent = () => (
   <main>
-    <TopBar />
-    <Header />
     <div style={{ display: 'flex', padding: '32px' }}>
       <section style={{ flex: 1 }}>
+        <TopBar/>
+        <Header/>
         <Banner />
         <FlashSales />
         <Categories/>

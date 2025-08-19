@@ -48,7 +48,7 @@ export default function Hero() {
             <div className="flex-1 p-12">
               <div className="flex items-center gap-2 mb-6">
                 <Image
-                  src="/images/1200px-Apple_gray_logo 1.png"
+                  src="/images/applelogo.png"
                   alt="Apple Logo"
                   width={32}
                   height={32}
